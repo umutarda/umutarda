@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @umutarda
-- I am a freshman at Bilkent University CS  
+- I am a 3rd year student at Bilkent University CS  
 
